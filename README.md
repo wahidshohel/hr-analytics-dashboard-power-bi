@@ -36,10 +36,6 @@ An interactive Power BI dashboard developed to analyze workforce composition, em
 
 The objective of this dashboard is to transform HR data into an interactive reporting solution that helps identify workforce patterns, understand employee attrition, and evaluate key HR performance indicators.
 
-## 📷 Dashboard Preview
-
-![HR Analytics Dashboard](screenshots/dashboard-overview.png)
-
 ## 👨‍💻 Author
 
 **Md. Wahiduzzaman**

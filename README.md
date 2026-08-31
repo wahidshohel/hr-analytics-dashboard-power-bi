@@ -1,4 +1,5 @@
 # 📊 HR Analytics Dashboard | Power BI
+<img width="2075" height="1200" alt="HR Analytics Dashboard_page-0001" src="https://github.com/user-attachments/assets/7f835a44-1295-48fc-974b-528760b6549e" />
 
 An interactive Power BI dashboard developed to analyze workforce composition, employee attrition, salary, job satisfaction, performance, overtime, tenure, and work-life balance.
 
